@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "ISSG";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Coshocton County (Official Site)", category: "Government", subcategory: "County", url: "https://www.coshoctoncounty.net/", description: "Official Coshocton County government website — offices, services, and news." },
